@@ -1,0 +1,6 @@
+You will need to put into this directory the following library file from Java3D
+
+- j3dcore.jar
+- j3dutils.jar
+- j3d-vrml97.jar
+- orbitbehaviorinterim2.1.jar
